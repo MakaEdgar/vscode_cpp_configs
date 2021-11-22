@@ -1,4 +1,4 @@
-# VsCode C ++ configs for Linux
+# VsCode C++ configs for Linux
 
 VsCode configs for building and debugging c++ code under linux + corresponding `.gitignore` that filters garbage.
 The build keys are the same as in the homework tests on github.
@@ -22,7 +22,7 @@ More convenient option is to type `bash` in [Address Bar of Windows Explorer](ht
 ## Usage under Windows via WSL
 Copy the `.vscode` folder to the code folder and run ` code .`
 Win GUI starts, and you can run normal debugging with `F5`, build project with ` Ctrl + Shift + B`, and the compiler messages match those of github tests.
-Despite the Window interface, the commands are executed in WSL ubuntu.
+Despite the Windows interface, the commands are executed in WSL ubuntu.
 <br/><br/>
 
 ## Usage under Linux
