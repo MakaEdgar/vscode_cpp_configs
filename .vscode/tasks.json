@@ -16,6 +16,7 @@
             "-O0",
             "-g",
             "-fsanitize=address",
+            "-fsanitize=undefined",
             "-fno-omit-frame-pointer",
             "-g",
             "${fileDirname}/*.cpp",
