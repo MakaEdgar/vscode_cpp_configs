@@ -1,6 +1,6 @@
 # VsCode C++ configs for Linux
 
-VsCode configs for building and debugging c++ code under linux + corresponding `.gitignore` that filters garbage.
+VsCode configs for building and debugging c++ code under linux (Win WSL) + corresponding `.gitignore` that filters garbage.
 The build keys are the same as in the homework tests on github.
 
 The run/build tasks will compile all `*.cpp` files in `.` directory into `./out` binary.
